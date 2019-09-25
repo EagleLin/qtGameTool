@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>terminalmanagetool.png</file>
+        <file>wolf.png</file>
+        <file>water.png</file>
+        <file>tree.png</file>
+        <file>rabbit.png</file>
+        <file>grass.png</file>
+        <file>desert.png</file>
+    </qresource>
+</RCC>
